@@ -2,7 +2,7 @@
 <suite name="Suite">
     <test name="Test">
         <classes>
-            <class name="Basictest"/>
+            <class name="com.manideep.Basictest"/>
         </classes>
     </test>
 </suite>
